@@ -4,13 +4,13 @@
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="1036.29" y="1091.58" type="qcurve" smooth="yes"/>
+      <point x="1036.29" y="1091.58" type="line"/>
       <point x="1036.29" y="978.944"/>
       <point x="968.704" y="880.64" type="qcurve" smooth="yes"/>
       <point x="923.648" y="813.056"/>
       <point x="815.104" y="716.8" type="qcurve" smooth="yes"/>
       <point x="745.472" y="655.36"/>
-      <point x="720.896" y="628.736" type="qcurve" smooth="yes"/>
+      <point x="720.896" y="628.736" type="qcurve"/>
       <point x="675.84" y="575.488"/>
       <point x="659.456" y="516.096" type="qcurve" smooth="yes"/>
       <point x="647.168" y="468.992"/>
@@ -37,6 +37,7 @@
       <point x="757.76" y="1490.94"/>
       <point x="890.88" y="1388.54" type="qcurve" smooth="yes"/>
       <point x="1036.29" y="1277.95"/>
+      <point x="1036.29" y="1091.58" type="qcurve"/>
     </contour>
     <contour>
       <point x="665.6" y="0" type="line"/>

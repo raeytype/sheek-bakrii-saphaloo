@@ -4,9 +4,9 @@
   <unicode hex="E305"/>
   <outline>
     <contour>
-      <point x="1789.95" y="1097.73" type="qcurve" smooth="yes"/>
+      <point x="1789.95" y="1097.73" type="line"/>
       <point x="1789.95" y="1064.96"/>
-      <point x="1765.38" y="1034.24" type="qcurve" smooth="yes"/>
+      <point x="1765.38" y="1034.24" type="qcurve"/>
       <point x="1681.41" y="937.984"/>
       <point x="1546.24" y="937.984" type="qcurve" smooth="yes"/>
       <point x="1452.03" y="937.984"/>
@@ -87,9 +87,10 @@
       <point x="1695.74" y="1189.89" type="qcurve" smooth="yes"/>
       <point x="1732.61" y="1189.89"/>
       <point x="1789.95" y="1134.59"/>
+      <point x="1789.95" y="1097.73" type="qcurve"/>
     </contour>
     <contour>
-      <point x="493.568" y="1024" type="qcurve" smooth="yes"/>
+      <point x="493.568" y="1024" type="line"/>
       <point x="493.568" y="1054.72"/>
       <point x="481.28" y="1089.54" type="qcurve" smooth="yes"/>
       <point x="464.896" y="1136.64"/>
@@ -101,8 +102,9 @@
       <point x="438.272" y="911.36"/>
       <point x="442.368" y="911.36" type="qcurve" smooth="yes"/>
       <point x="446.464" y="911.36"/>
-      <point x="454.656" y="919.552" type="qcurve" smooth="yes"/>
+      <point x="454.656" y="919.552" type="qcurve"/>
       <point x="493.568" y="954.368"/>
+      <point x="493.568" y="1024" type="qcurve"/>
     </contour>
   </outline>
   <lib>

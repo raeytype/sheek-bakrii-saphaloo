@@ -48,7 +48,7 @@
       <point x="1318.91" y="1386.5" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1134.59" y="819.2" type="qcurve" smooth="yes"/>
+      <point x="1134.59" y="819.2" type="line"/>
       <point x="1134.59" y="831.488"/>
       <point x="1112.06" y="854.016" type="qcurve" smooth="yes"/>
       <point x="1034.24" y="929.792"/>
@@ -64,6 +64,7 @@
       <point x="1044.48" y="708.608"/>
       <point x="1118.21" y="790.528" type="qcurve" smooth="yes"/>
       <point x="1134.59" y="808.96"/>
+      <point x="1134.59" y="819.2" type="qcurve"/>
     </contour>
   </outline>
   <lib>

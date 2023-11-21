@@ -4,7 +4,7 @@
   <unicode hex="E12C"/>
   <outline>
     <contour>
-      <point x="1449.98" y="157.696" type="qcurve" smooth="yes"/>
+      <point x="1449.98" y="157.696" type="line"/>
       <point x="1449.98" y="57.344"/>
       <point x="1300.48" y="-92.16"/>
       <point x="1200.13" y="-92.16" type="qcurve" smooth="yes"/>
@@ -47,6 +47,7 @@
       <point x="1286.14" y="403.456"/>
       <point x="1363.97" y="342.016" type="qcurve" smooth="yes"/>
       <point x="1449.98" y="274.432"/>
+      <point x="1449.98" y="157.696" type="qcurve"/>
     </contour>
     <contour>
       <point x="1046.53" y="1239.04" type="line" smooth="yes"/>
@@ -61,7 +62,7 @@
       <point x="1046.53" y="1116.16" type="line"/>
     </contour>
     <contour>
-      <point x="1265.66" y="157.696" type="qcurve" smooth="yes"/>
+      <point x="1265.66" y="157.696" type="line"/>
       <point x="1265.66" y="219.136"/>
       <point x="1165.31" y="219.136" type="qcurve" smooth="yes"/>
       <point x="1144.83" y="219.136"/>
@@ -70,6 +71,7 @@
       <point x="1200.13" y="92.16" type="qcurve" smooth="yes"/>
       <point x="1222.66" y="92.16"/>
       <point x="1265.66" y="133.12"/>
+      <point x="1265.66" y="157.696" type="qcurve"/>
     </contour>
   </outline>
   <lib>

@@ -35,7 +35,9 @@ main:
 			my $syllable = $Syllables[$i];
 			my $char = $row[5+$i];
 			my $addr = ord($char);
-			printf( "$char\tU+%04X SHEIKH BAKRI SAPALO SYLLABLE $base$syllable\n", $addr );
+			my $xAddr = sprintf( "U+%04X", $addr );
+			$xAddr =~ s/E/1X/;
+			print "$char\t$xAddr SHEIKH BAKRI SAPALO SYLLABLE $base$syllable\n";
 		}
 	}
 

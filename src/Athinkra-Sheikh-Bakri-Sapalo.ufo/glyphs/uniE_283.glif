@@ -4,7 +4,7 @@
   <unicode hex="E283"/>
   <outline>
     <contour>
-      <point x="2074.62" y="819.2" type="qcurve" smooth="yes"/>
+      <point x="2074.62" y="819.2" type="line"/>
       <point x="2074.62" y="714.752"/>
       <point x="1929.22" y="606.208"/>
       <point x="1820.67" y="606.208" type="qcurve" smooth="yes"/>
@@ -20,7 +20,7 @@
       <point x="1351.68" y="622.592"/>
       <point x="1417.22" y="727.04" type="qcurve"/>
       <point x="1034.24" y="727.04" type="line"/>
-      <point x="1245.18" y="26.624" type="line" smooth="yes"/>
+      <point x="1245.18" y="26.624" type="line"/>
       <point x="1249.28" y="10.24"/>
       <point x="1249.28" y="-4.096" type="qcurve" smooth="yes"/>
       <point x="1249.28" y="-40.96"/>
@@ -72,9 +72,10 @@
       <point x="1929.22" y="1032.19"/>
       <point x="1998.85" y="980.992" type="qcurve" smooth="yes"/>
       <point x="2074.62" y="923.648"/>
+      <point x="2074.62" y="819.2" type="qcurve"/>
     </contour>
     <contour>
-      <point x="1890.3" y="819.2" type="qcurve" smooth="yes"/>
+      <point x="1890.3" y="819.2" type="line"/>
       <point x="1890.3" y="847.872"/>
       <point x="1824.77" y="847.872" type="qcurve" smooth="yes"/>
       <point x="1783.81" y="847.872"/>
@@ -84,11 +85,12 @@
       <point x="1865.73" y="790.528"/>
       <point x="1888.26" y="804.864" type="qcurve"/>
       <point x="1890.3" y="811.008"/>
+      <point x="1890.3" y="819.2" type="qcurve"/>
     </contour>
     <contour>
-      <point x="907.264" y="495.616" type="qcurve" smooth="yes"/>
+      <point x="907.264" y="495.616" type="line"/>
       <point x="907.264" y="522.24"/>
-      <point x="845.824" y="538.624" type="qcurve" smooth="yes"/>
+      <point x="845.824" y="538.624" type="qcurve"/>
       <point x="798.72" y="552.96"/>
       <point x="761.856" y="552.96" type="qcurve" smooth="yes"/>
       <point x="665.6" y="552.96"/>
@@ -106,6 +108,7 @@
       <point x="851.968" y="382.976"/>
       <point x="894.976" y="456.704" type="qcurve"/>
       <point x="907.264" y="481.28"/>
+      <point x="907.264" y="495.616" type="qcurve"/>
     </contour>
   </outline>
   <lib>
