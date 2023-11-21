@@ -17,3 +17,5 @@ Version 1.0
 * CALT tables have been added to remap Latin Qubee sequences to Sheik Bakri Sapalo equivalents.
 
 * UPM size scaled from 1000 to 2048.
+
+* The Full Stop glyph is changed form four dots to two horizontal strokes.
