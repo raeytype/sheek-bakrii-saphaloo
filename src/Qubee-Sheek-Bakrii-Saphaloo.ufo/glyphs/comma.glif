@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+  <advance width="569"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="387.072" y="0" type="line" smooth="yes"/>
+      <point x="387.072" y="-217.088"/>
+      <point x="219.136" y="-290.816" type="qcurve"/>
+      <point x="169.984" y="-212.992" type="line"/>
+      <point x="278.528" y="-165.888"/>
+      <point x="284.672" y="0" type="qcurve"/>
+      <point x="182.272" y="0" type="line"/>
+      <point x="182.272" y="204.8" type="line"/>
+      <point x="387.072" y="204.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>
