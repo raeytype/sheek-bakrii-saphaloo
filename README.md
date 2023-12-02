@@ -1,4 +1,4 @@
-# Athinkra – Sheek Bakrii Saphaloo Font
+# The Athinkra – Sheek Bakrii Saphaloo Font
 
 This repository contains the source assets for a font supporting the Sheek Bakrii Saphaloo script.
 The Sheek Bakrii Saphaloo script in turn contains 804 symbols: 792 syllables, 2 punctuation marks, 
