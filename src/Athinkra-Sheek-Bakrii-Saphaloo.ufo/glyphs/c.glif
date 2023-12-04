@@ -6,9 +6,9 @@
     <contour>
       <point x="887.97" y="323.941" type="line"/>
       <point x="862.372" y="164.177"/>
-      <point x="654.061" y="-22.0668"/>
-      <point x="496.945" y="-22.0668" type="qcurve" smooth="yes"/>
-      <point x="287.752" y="-22.0668"/>
+      <point x="654.061" y="-22.0669"/>
+      <point x="496.945" y="-22.0669" type="qcurve" smooth="yes"/>
+      <point x="287.752" y="-22.0669"/>
       <point x="173.887" y="119.161" type="qcurve" smooth="yes"/>
       <point x="70.6139" y="249.797"/>
       <point x="70.6139" y="464.287" type="qcurve" smooth="yes"/>

@@ -2,7 +2,6 @@
 <glyph name="hyphen" format="2">
   <advance width="602"/>
   <unicode hex="002D"/>
-  <unicode hex="2010"/>
   <outline>
     <contour>
       <point x="545.493" y="388.377" type="line"/>

@@ -14,13 +14,13 @@
       <point x="63.5525" y="276.277"/>
       <point x="63.5525" y="477.527" type="qcurve" smooth="yes"/>
       <point x="63.5525" y="782.932"/>
-      <point x="255.093" y="900.327" type="qcurve" smooth="yes"/>
+      <point x="255.093" y="900.328" type="qcurve" smooth="yes"/>
       <point x="346.891" y="957.701"/>
       <point x="458.99" y="957.701" type="qcurve" smooth="yes"/>
       <point x="632.877" y="957.701"/>
       <point x="731.737" y="812.06" type="qcurve"/>
-      <point x="731.737" y="938.282" type="line"/>
-      <point x="874.73" y="938.282" type="line"/>
+      <point x="731.737" y="938.283" type="line"/>
+      <point x="874.73" y="938.283" type="line"/>
     </contour>
     <contour>
       <point x="731.737" y="457.225" type="qcurve" smooth="yes"/>
