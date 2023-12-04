@@ -10,10 +10,5 @@ this project updates the OFL release to relocate the glyphs into the Private Use
 file in this directory for a list of additional changes.
 
 ## Keyman Keyboard
-An experimental [Keyman](https://keyman.com/) keyboard is available that works with the encoding of the font. They keyboard
-will be submitted to the Keyman keyboard collection very soon, until then the following two downloads are available:
-
-* A Windows `.exe` executable that installs Keyman Desktop, the Sheek Bakrii Saphaloo keyboard and font.
-  Available from this [GDrive link.](https://drive.google.com/file/d/1iRYyhPLPARvrDs8QLTOAUNg0dT96Ts9H/view?usp=drive_link)
-* A Keyman  `.kmp` package that includes the Sheek Bakrii Saphaloo keyboard, and installs the font.
-  Available from this [GDrive link.](https://drive.google.com/file/d/1jlreCWnqo4HRC-PITF32dKu4-l1m7oCn/view?usp=drive_link)
+An experimental [Keyman](https://keyman.com/) keyboard is available that works with the encoding of the font. 
+The keyboard is available at [this link](https://keyman.com/keyboards/gff_sbs).
