@@ -34,7 +34,7 @@
       <point x="1057.44" y="352.187" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1000.07" y="941.813" type="qcurve" smooth="yes"/>
+      <point x="1000.07" y="941.813" type="line"/>
       <point x="1000.07" y="1151.89"/>
       <point x="722.91" y="1151.89" type="qcurve" smooth="yes"/>
       <point x="312.467" y="1151.89" type="line"/>
@@ -43,6 +43,7 @@
       <point x="900.327" y="722.91"/>
       <point x="965.645" y="824.418" type="qcurve" smooth="yes"/>
       <point x="1000.07" y="878.261"/>
+      <point x="1000.07" y="941.813" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

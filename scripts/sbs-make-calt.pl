@@ -72,7 +72,7 @@ my @row = @{ $_[0] };
 		printSyllable( $base, $qubee, $Syllables[$i], $row[6+$i] );
 	}
 	# Short Vowels
-	for( my $i=0; $i<4; $i++ ) {
+	for( my $i=0; $i<5; $i++ ) {
 		printSyllable( $base, $qubee, $Syllables[$i], $row[6+$i] );
 	}
 	# Consonant
